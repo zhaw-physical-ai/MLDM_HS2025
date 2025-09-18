@@ -11,11 +11,14 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
 
 ## How to use Google Colab
 
-1. **Open a Notebook**: Click on any `.ipynb` file in this repository
-2. **Open in Colab**: Click the "Open in Colab" button at the top of the notebook (if available) or:
+1. **Direct Link Method**:
+   - Use this URL pattern: `https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/[path-to-notebook]`
+   - Example: [Open Week 1 Data Cleaning in Colab](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb)
+2. **Manual Method**:
    - Go to [Google Colab](https://colab.research.google.com/)
    - Click on "GitHub" tab
-   - Enter the repository URL and select the desired notebook
+   - Enter the repository URL: `https://github.com/zhaw-physical-ai/MLDM_HS2025`
+   - Select the desired notebook
 3. **Upload Data Files**:
    - Use the files panel on the left sidebar in Colab
    - Upload the required CSV files from the corresponding week folder
