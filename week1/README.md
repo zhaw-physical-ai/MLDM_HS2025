@@ -10,10 +10,16 @@ This week introduces fundamental concepts in data preprocessing and basic machin
 - **lab01_clean_data.csv**: Cleaned version of the dataset for comparison
 - **Week1 regression and classification Students data SEP.ipynb**: Introduction to regression and classification algorithms
 
-## Open directly the lab in Google Collab
+## Open directly the lab in Google Colab
 
 <a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Main Lab File In Colab" width="200"/>
+</a>
+
+For the additional notebook with examples:
+
+<a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/week1_examples_regression_and_classification_with_students_data_setp.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open additional (voluntary) notebook in Colab" width="100"/>
 </a>
 
 ## Learning Objectives
