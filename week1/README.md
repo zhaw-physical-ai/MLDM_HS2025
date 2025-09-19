@@ -14,7 +14,7 @@ This week introduces fundamental concepts in data preprocessing and basic machin
 
 <a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Main Lab File In Colab" width="200"/>
-</a><br>/br>
+</a><br></br>
 
 For the additional notebook with examples:
 
