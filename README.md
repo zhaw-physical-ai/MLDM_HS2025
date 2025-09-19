@@ -8,6 +8,7 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Data preprocessing and cleaning techniques
   - Introduction to regression and classification models
   - Hands-on exercises with real datasets
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb)
 
 ## How to use Google Colab
 
