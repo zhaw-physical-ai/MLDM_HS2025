@@ -4,7 +4,7 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
 
 ## Course Structure
 
-- **Week 1**: Data Cleaning, Regression, and Classification
+- [**Week 1**: Data Cleaning, Regression, and Classification](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week1)
   - Data preprocessing and cleaning techniques
   - Introduction to regression and classification models
   - Hands-on exercises with real datasets
