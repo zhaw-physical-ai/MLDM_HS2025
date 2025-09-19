@@ -10,6 +10,12 @@ This week introduces fundamental concepts in data preprocessing and basic machin
 - **lab01_clean_data.csv**: Cleaned version of the dataset for comparison
 - **Week1 regression and classification Students data SEP.ipynb**: Introduction to regression and classification algorithms
 
+## Open directly the lab in Google Collab
+
+<a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200"/>
+</a>
+
 ## Learning Objectives
 - Identify and handle missing data
 - Detect and treat outliers
