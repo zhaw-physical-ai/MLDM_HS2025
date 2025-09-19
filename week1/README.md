@@ -18,9 +18,7 @@ This week introduces fundamental concepts in data preprocessing and basic machin
 
 For the additional notebook with examples:
 
-<a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/week1_examples_regression_and_classification_with_students_data_setp.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open additional (voluntary) notebook in Colab" width="100"/>
-</a>
+[![Run additional (voluntary) lecture examples notebook](https://img.shields.io/badge/Colab-Run%20L01_Data_Cleaning-orange?logo=googlecolab)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/week1_examples_regression_and_classification_with_students_data_sep.ipynb)
 
 ## Learning Objectives
 - Identify and handle missing data
