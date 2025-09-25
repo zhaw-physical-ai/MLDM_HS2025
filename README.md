@@ -10,6 +10,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Hands-on exercises with real datasets
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week1/L01_Data_Cleaning.ipynb)
 
+- [**Week 2**: Linear Regression](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week2)
+  - Linear regression theory and implementation
+  - Model evaluation and performance metrics
+  - Practical exercises with scikit-learn
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week2/L02_Linear_Regression.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
