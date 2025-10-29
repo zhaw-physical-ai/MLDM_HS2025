@@ -40,6 +40,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Softmax activation and backpropagation
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week6/L06_Neural_Networks.ipynb)
 
+- [**Week 7**: Training Neural Networks](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week7)
+  - Backpropagation algorithm and gradient computation
+  - Optimization techniques for neural network training
+  - Regularization and training strategies
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week7/L07_Training_NNs.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
