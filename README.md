@@ -52,6 +52,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - SVM implementation and hyperparameter tuning
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week8/L08_SVMs.ipynb)
 
+- [**Week 9**: Decision Trees](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week9)
+  - Decision tree fundamentals and recursive partitioning
+  - Overfitting prevention and tree pruning techniques
+  - Random Forests and ensemble methods
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week9/L09_Decision_Trees.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
