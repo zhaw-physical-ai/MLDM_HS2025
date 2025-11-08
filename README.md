@@ -46,6 +46,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Regularization and training strategies
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week7/L07_Training_NNs.ipynb)
 
+- [**Week 8**: Support Vector Machines](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week8)
+  - Maximum margin classifiers and support vectors
+  - Kernel methods and the kernel trick
+  - SVM implementation and hyperparameter tuning
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week8/L08_SVMs.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
