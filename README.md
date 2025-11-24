@@ -58,6 +58,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Random Forests and ensemble methods
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week9/L09_Decision_Trees.ipynb)
 
+- [**Week 10**: Generative Models](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week10)
+  - Maximum Likelihood Estimation (MLE) and MAP estimation
+  - Naive Bayes classifiers and probabilistic inference
+  - Comparison of generative and discriminative models
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week10/L10_GenerativeModels_Assignment.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
