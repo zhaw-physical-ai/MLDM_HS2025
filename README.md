@@ -64,6 +64,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Comparison of generative and discriminative models
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week10/L10_GenerativeModels_Assignment.ipynb)
 
+- [**Week 11**: Clustering](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week11)
+  - Unsupervised learning and clustering fundamentals
+  - K-means, hierarchical clustering, and DBSCAN
+  - Cluster evaluation and optimal cluster selection
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week11/L11_Clustering.ipynb)
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
